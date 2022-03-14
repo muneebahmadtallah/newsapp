@@ -1,0 +1,286 @@
+{
+  "status": "ok",
+  "totalResults": 685,
+
+  "articles": [
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Steve Dent",
+      "title": "Apple’s 1TB 14-inch MacBook Pro falls to a new all-time low",
+      "description": "Apple's 2021 MacBook Pros offer incredible performance thanks to the latest M1 Pro and Max chips, while the return of cerin key ports makes them more practical than ever. If you've been looking for one but have been put off by the price, the 14-inch 1TB mod…",
+      "url": "https://www.engadget.com/apples-1-tb-14-inch-mac-book-pro-falls-to-a-new-all-time-low-101039991.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-02/f38b1670-9486-11ec-aeb2-4c4742d59d8a",
+      "publishedAt": "2022-02-23T10:10:39Z",
+      "content": "Apple's 2021 MacBook Pros offer incredible performance thanks to the latest M1 Pro and Max chips, while the return of certain key ports makes them more practical than ever. If you've been looking for… [+1654 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Derrek Lee",
+      "title": "Trump's Twitter clone 'Truth Social' goes live, but good luck joining",
+      "description": "Glitches and a long waitlist might make it a difficult sell.\n\n\n\nWhat you need to know\n\n\nDonald Trump's social media app has finally launched on iOS.\nTruth Social looks nearly identical to Twitter, which he was banned from in 2021.\nThe app has already suffered…",
+      "url": "https://www.androidcentral.com/trump-twitter-clone-launches",
+      "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2022/02/truth-social-apple-app-store.jpg",
+      "publishedAt": "2022-02-23T01:16:28Z",
+      "content": "Donald Trump has finally launched his long-awaited Truth Social app this week, and early reports don't paint too a pretty picture for the social media app, even if the reviews suggest differently.\r\nT… [+1415 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Larry Ryan",
+      "title": "Listen here: you can’t rely on music streaming. Maybe it’s time to dig out your old CDs | Larry Ryan",
+      "description": "The Neil Young row hinted at the precariousness of relying on Spotify et al. Could the casual CD become cool again?At some point half a decade ago I did the sensible thing: I packed away into boxes the dust-caked piles of CDs (largely unplayed for quite a whi…",
+      "url": "https://amp.theguardian.com/commentisfree/2022/feb/23/music-streaming-cds-spotify",
+      "urlToImage": "https://i.guim.co.uk/img/media/bca8b887e15a686e6406e0694747a08303f73bdc/0_758_5184_3110/master/5184.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=02e39cc3628b232a4125a393480f82d5",
+      "publishedAt": "2022-02-23T10:00:02Z",
+      "content": "At some point half a decade ago I did the sensible thing: I packed away into boxes the dust-caked piles of CDs (largely unplayed for quite a while) that had followed me through various houseshares. I… [+5395 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "Apple Diversifies Supply Chain for Custom-Designed 5G Modem for iPhones in 2023",
+      "description": "Apple is in preliminary talks with new suppliers about backend orders for its first in-house 5G modem chips for iPhones, according to a new report from DigiTimes.\n\n\n\n\n\nApple is reportedly negotiating with ASE Technology, which owns Advanced Semiconductor Engi…",
+      "url": "https://www.macrumors.com/2022/02/23/apple-diversifies-supply-chain-5g-modem-iphones/",
+      "urlToImage": "https://images.macrumors.com/t/7FWh5ByskU5VH_lm9RuaVIWhCbs=/1810x/article-new/2021/05/Apple-5G-Modem-Feature-Triad.jpg",
+      "publishedAt": "2022-02-23T10:18:20Z",
+      "content": "Apple is in preliminary talks with new suppliers about backend orders for its first in-house 5G modem chips for iPhones, according to a new report from DigiTimes.\r\nApple is reportedly negotiating wit… [+1531 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Eli Blumenthal",
+      "title": "Switching Cell Phone Carriers in 2022: What to Know Before You Switch Carriers  CNET",
+      "description": "Before you change your wireless plan, you'll want to make sure you have answers to these questions.",
+      "url": "https://www.cnet.com/tech/mobile/switching-cell-phone-carriers/",
+      "urlToImage": "https://www.cnet.com/a/img/LaLgbITNJnO4sssL6l8LeKa7xFU=/1200x630/2021/03/31/828d4247-00be-430e-bf9b-bb02abc31739/034verizon-att-t-mobile-big-three-carrier-logos-2021.jpg",
+      "publishedAt": "2022-02-23T01:46:41Z",
+      "content": "Sarah Tew/CNET\r\nSwitching wireless providers isn't easy. Although there are three major networks in the US, the actual number of wireless carriers and plans is significantly higher. Sifting through i… [+7544 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Fast Company"
+      },
+      "author": "Talib Visram",
+      "title": "3 possibilities for our climate-ravaged future—and the solutions that could prevent the worst",
+      "description": "The ‘World Changing Ideas’ podcast is back with a brand-new season dedicated to innovative solutions to the climate crisis.\nRead Full Story",
+      "url": "https://www.fastcompany.com/90724159/three-possibilities-for-our-climate-ravaged-future-and-the-solutions-that-could-prevent-the-worst?partner=feedburner&utm_source=feedburner&utm_medium=feed&utm_campaign=feedburner+fastcompany&utm_content=feedburner",
+      "urlToImage": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/02/p-1-90724159-wci-podcast-climate-season-intro.jpg",
+      "publishedAt": "2022-02-23T05:00:24Z",
+      "content": "Unprecedented floods in Germany. Prolonged droughts in Kenya. Raging infernos in Siberia. The frightening acceleration of extreme weather catastrophes is an ever-more-tangible sign that all is not ok… [+3175 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Trends"
+      },
+      "author": "Trevor Mogg",
+      "title": "Apple Store siege in Amsterdam ends dramatically",
+      "description": "A hostage situation at an Apple Store in the Netherlands ended dramatically on Tuesday when the suspect was hit by a police vehicle as he ran from the store.",
+      "url": "https://www.digitaltrends.com/news/apple-store-siege-ends-dramatically/",
+      "urlToImage": "https://icdn.digitaltrends.com/image/digitaltrends/apple-store-amsterdam.jpg",
+      "publishedAt": "2022-02-23T06:00:36Z",
+      "content": "A hostage situation at an Apple Store in the Dutch city of Amsterdam ended dramatically on Tuesday night when the suspect was hit by a police vehicle as he ran from the store in pursuit of a hostage.… [+2286 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Ben Schwan",
+      "title": "Angeblich bis zu sieben neue Macs für 2022 in der Pipeline",
+      "description": "Apple scheint in diesem Jahr zu planen, große Teile seines Rechner-Line-up zu überholen. Betroffen sind sowohl Desktops als auch Notebooks.",
+      "url": "https://www.heise.de/news/Angeblich-bis-zu-sieben-neue-Macs-fuer-2022-in-der-Pipeline-6513172.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/3/8/5/1/1/shutterstock_1862075311-c974973153e112c7.jpg",
+      "publishedAt": "2022-02-23T09:51:00Z",
+      "content": "Wer sich einen neuen Mac kaufen möchte, sollte je nach Modellwunsch womögich noch etwas Geduld haben: In diesem Jahr scheint Apple jede Menge neue Hardware zu planen. Davon geht zumindest Mark Gurman… [+2228 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Christian Kirsch",
+      "title": "heise+ | So geht's: Serienbriefe mit Apple Pages, Numbers und JavaScript erstellen",
+      "description": "Mithilfe unseres kompakten JavaScripts können Sie endlich wieder personalisierte Briefe mit Apples iWork-Apps verfassen.",
+      "url": "https://www.heise.de/ratgeber/So-geht-s-Serienbriefe-mit-Apple-Pages-Numbers-und-JavaScript-erstellen-6512613.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/3/8/0/0/5/mi_22_01_wre_serienbriefe_adobestock_227429206_digital-747d34d77a2e7bd7.jpg",
+      "publishedAt": "2022-02-23T06:30:00Z",
+      "content": "Inhaltsverzeichnis\r\nFrüher konnte Pages automatisch Serienbriefe aus Adressen generieren. Seit der Generalüberholung im Jahr 2013 fehlt die Funktion jedoch. Entsprechend besteht weiterhin Bedarf an e… [+3009 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Daniel Herbig",
+      "title": "Patentklage: HMD Global verkauft viele Nokia-Handys nicht mehr in Deutschland",
+      "description": "Der finnische Hersteller HMD Global hat die meisten seiner Nokia-Smartphones in Deutschland aus dem Sortiment genommen. Hintergrund ist eine Patentklage.",
+      "url": "https://www.heise.de/news/Patentklage-HMD-Global-verkauft-aeltere-Nokia-Handys-nicht-mehr-in-Deutschland-6521249.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/4/6/0/9/5/206346108_3283971aff-06369d1d6cea55d2.jpeg",
+      "publishedAt": "2022-02-23T09:20:00Z",
+      "content": "Wegen Patentstreitigkeiten musste der finnische Hersteller HMD Global die meisten seiner Nokia-Smartphones in Deutschland aus dem Sortiment nehmen. Im deutschen Nokia-Shop kann derzeit nur noch das M… [+2891 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Dennis Schirrmacher",
+      "title": "Telefonbetrüger haben es aufs Geld von Comdirect-Kunden abgesehen",
+      "description": "Derzeit rufen Betrüger gehäuft Kunden der Bank Comdirect an, setzen Opfer unter Druck und fragen unter anderem TANs ab.",
+      "url": "https://www.heise.de/news/Telefonbetrueger-habe-es-aufs-Geld-von-Comdirect-Kunden-abgesehen-6521527.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/4/6/3/4/2/shutterstock_1230909607-0f5c23f08280d8f0.jpg",
+      "publishedAt": "2022-02-23T09:35:00Z",
+      "content": "Wer Comdirect-Kunde ist und dieser Tage einen Anruf des Kundenservices bekommt, sollte aufpassen: Momentan geben sich Betrüger als Mitarbeiter der Bank aus und versuchen Opfer zu einer Überweisung zu… [+1919 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Sponsored Post",
+      "title": "9to5Rewards: 10% off Journey iPhone cases + iPhone 13 giveaway",
+      "description": "We’ve teamed up with Alogic to giveaway an iPhone 13 this month to help celebrate the launch of its latest line of Journey cases for iPhone. Head below for a closer look and to enter the giveaway now. You can also get 10% off Journey cases with code JOURNEY10…",
+      "url": "https://9to5mac.com/2022/02/22/9to5rewards-10-off-journey-iphone-cases-iphone-13-giveaway/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/Journey_Case_iPhone13_ConcreteStudio_3xTop3qtr.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-02-23T00:26:04Z",
+      "content": "We’ve teamed up with Alogic to giveaway an iPhone 13 this month to help celebrate the launch of its latest line of Journey cases for iPhone. Head below for a closer look and to enter the giveaway now… [+1360 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (William Gallagher)",
+      "title": "Apple praises Amsterdam police over 'terrifying' hostage situation",
+      "description": "Apple has thanked local authorities and its own staff \"after this terrifying experience\" with a hostage being taken at the company's Amsterdam Apple Store.Following the successful resolution of the hostage situation, Apple has issued a statement thanking poli…",
+      "url": "https://appleinsider.com/articles/22/02/23/apple-praises-amsterdam-police-over-terrifying-hostage-situation",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/47111-91755-apple-store-amsterdam-xl.jpg",
+      "publishedAt": "2022-02-23T10:35:16Z",
+      "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1411 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.jp"
+      },
+      "author": "小暮ひさのり",
+      "title": "上下画面で20インチ!? 折りたたみ式MacBookはロマンがあるけど…",
+      "description": "Image:Apple使いやすいのかな…それ。って思っちゃった。MacRumorsによると、Appleは全画面の折りたたみ式のノートPCを模索していると報じています。それは折りたたむとオンスクリーンのソフトウェアキーボードが表示され、フルに展開するとモニターになる2Wayスタイルの製品になるとかならんとか…。いや、ちょっとファンタジーでしょ？って思っちゃうんだけど、まだ模索中の可能性であり、確定で",
+      "url": "https://www.gizmodo.jp/2022/02/macbookfold.html",
+      "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/02/22/2022-02-22mackk00-w960.jpg",
+      "publishedAt": "2022-02-23T02:00:00Z",
+      "content": "Copyright © mediagene Inc. All Rights Reserved."
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Journal du geek"
+      },
+      "author": "Julie Hay",
+      "title": "Apple TV+ : Tom Holland à l’affiche d’une série sur les troubles mentaux",
+      "description": "Actuellement à l'affiche d'Uncharted, Tom Holland est annoncé au casting d'une série pour Apple TV+ avec Amanda Seyfried et Emmy Rossum. \nApple TV+ : Tom Holland à l’affiche d’une série sur les troubles mentaux",
+      "url": "https://www.journaldugeek.com/2022/02/23/apple-tv-tom-holland-a-laffiche-dune-serie-sur-les-troubles-mentaux/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/02/disney-no-exit-38.jpg",
+      "publishedAt": "2022-02-23T10:30:53Z",
+      "content": "Actuellement à l'affiche d'Uncharted, Tom Holland est annoncé au casting d'une série pour Apple TV+ avec Amanda Seyfried et Emmy Rossum.Il est de tous les rendez-vous. Après avoir catapulté le box-of… [+1986 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Journal du geek"
+      },
+      "author": "Gregori Pujol",
+      "title": "Le prix du casque AirPods Max en chute libre et c’est rare (-30%) !",
+      "description": "Très rares sont les promotions sur les produits de chez Apple, mais voilà que, par miracle, le prix AirPods Max vient de chuter chez le revendeur Amazon ! Profitez-en pour vous acheter le premier casque de la firme, à ce prix-là, vous n'allez pas le regretter…",
+      "url": "https://www.journaldugeek.com/2022/02/23/le-prix-du-casque-airpods-max-en-chute-libre-et-cest-rare-30/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2021/11/airpods-max-promotion-amazon.jpeg",
+      "publishedAt": "2022-02-23T10:15:57Z",
+      "content": "Très rares sont les promotions sur les produits de chez Apple, mais voilà que, par miracle, le prix AirPods Max vient de chuter chez le revendeur Amazon ! Profitez-en pour vous acheter le premier cas… [+2041 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Journal du geek"
+      },
+      "author": "Thomas Estimbre",
+      "title": "Comment savoir si votre iPhone vous espionne ?",
+      "description": "Votre iPhone en sait plus sur vous que vous ne le pensez. Voici quelques règles à suivre pour éviter d’être espionné par son smartphone.\nComment savoir si votre iPhone vous espionne ?",
+      "url": "https://www.journaldugeek.com/2022/02/23/comment-savoir-si-votre-iphone-vous-espionne/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2021/10/iphone-13-ios-15.jpg",
+      "publishedAt": "2022-02-23T08:30:39Z",
+      "content": "Votre iPhone en sait plus sur vous que vous ne le pensez. Voici quelques règles à suivre pour éviter dêtre espionné par son smartphone.Outil indispensable du quotidien, le smartphone tel que l’iPhone… [+4931 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Miguel López",
+      "title": "El piloto automático del Apple Car ha sido desarrollado en Corea del Sur y culminará en 2023, según TheElec",
+      "description": "Llegan más pistas sobre el supuesto coche de Apple que lleva ya años entre los rumores. Un mes después de saber que la compañía ha estado hablando sobre el diseño del vehículo con compañías japonesas, ahora se ha publicado que una compañía surcoreana ha estad…",
+      "url": "https://www.applesfera.com/rumores/piloto-automatico-apple-car-ha-sido-desarrollado-corea-sur-culminara-2023-theelec",
+      "urlToImage": "https://i.blogs.es/8a7d8a/coche-carretera/840_560.jpeg",
+      "publishedAt": "2022-02-23T10:00:32Z",
+      "content": "Llegan más pistas sobre el supuesto coche de Apple que lleva ya años entre los rumores. Un mes después de saber que la compañía ha estado hablando sobre el diseño del vehículo con compañías japonesas… [+1119 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Eduardo Archanco",
+      "title": "Llegan algunos cambios anti-acoso al AirTag con la cuarta beta de iOS 15.4",
+      "description": "Hace unas semanas, Apple anunció nuevas medidas para evitar el acoso con el AirTag. Tras algunos casos de uso fraudulento en EEUU, la compañía ha decidido aclarar su funcionamiento y añadir o modificar otras características del AirTag. Y ha sido ahora, con la…",
+      "url": "https://www.applesfera.com/airtag/llegan-algunos-cambios-anti-acoso-al-airtag-cuarta-beta-ios-15-4",
+      "urlToImage": "https://i.blogs.es/300d63/1366_2000/840_560.jpeg",
+      "publishedAt": "2022-02-23T07:55:00Z",
+      "content": "Hace unas semanas, Apple anunció nuevas medidas para evitar el acoso con el AirTag. Tras algunos casos de uso fraudulento en EEUU, la compañía ha decidido aclarar su funcionamiento y añadir o modific… [+2656 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "David Bernal Raspall",
+      "title": "Más batería en los iPhone 14: Apple sustituirá los chips 5G de Samsung por los de TSMC, según los rumores",
+      "description": "En los iPhone 13, Apple ya mejoró la duración de la batería de toda la gama. Ahora parece que la compañía quiere repetir la jugada en los iPhone 14. Una mejora que está directamente relacionada con abandonar los chips 5G de Samsung para pasar a usar los de TS…",
+      "url": "https://www.applesfera.com/rumores/bateria-iphone-14-apple-sustituira-chips-5g-samsung-tsmc-rumores",
+      "urlToImage": "https://i.blogs.es/32acca/frederik-lipfert-exv1jefgztu-unsplash/840_560.jpeg",
+      "publishedAt": "2022-02-23T08:05:08Z",
+      "content": "En los iPhone 13, Apple ya mejoró la duración de la batería de toda la gama. Ahora parece que la compañía quiere repetir la jugada en los iPhone 14. Una mejora que está directamente relacionada con a… [+2652 chars]"
+    }
+  ]
+}
